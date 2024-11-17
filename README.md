@@ -1,5 +1,4 @@
 # Excel--Sales-and-Financial-Analytics
-This project involves an in-depth analysis of AtliQ Technologies Hardware's sales data from 2019 to 2021 across various regions and channels, leveraging Excel to extract valuable business insights. The goal is to identify trends and patterns to inform strategic decision-making and to provide comprehensive financial evaluations.
 
 This project encompasses a thorough analysis of AtliQ Technologies Hardware's sales data spanning from 2019 to 2021, covering various regions and channels. Utilizing Excel, we extracted valuable business insights to shape future strategies. The aim is to pinpoint trends and patterns to enhance strategic decision-making and perform comprehensive financial evaluations.
 
